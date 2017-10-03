@@ -1,0 +1,51 @@
+.logo-img{
+  width: 30%;
+}
+
+img{
+  max-height: 129px;
+}
+
+div.secondary.callout.text-center{
+  min-height: 242px;
+}
+
+.search {
+  border-radius: 33px;
+  padding-left: 10px;
+}
+
+.nobullets {
+  list-style: none;
+}
+
+.novisited{
+  color: #0000dd;
+}
+
+.thumb{
+  width: 30%;
+  height: 20%;
+  padding: 2px;
+}
+.textwrapper
+{
+  border:1px solid #999999;
+  margin:5px 0;
+  padding:3px;
+}
+textarea
+{
+  width:80%;
+}
+.fi-torso {
+  font-size: 250%;
+  margin-right: 10px;
+}
+
+.floatRight {
+    float: right;
+}
+.floatLeft {
+    float: left;
+}
